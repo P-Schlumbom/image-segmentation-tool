@@ -11,7 +11,7 @@ Developed in Python 3.9.
 1. Clone this repository.
 2. Install dependencies using:
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 
 ## Usage
 Run the script with:
